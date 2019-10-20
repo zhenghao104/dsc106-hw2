@@ -23,7 +23,7 @@ var foodSales = [
 
 // Configuration about the plot
 var title = {
-    text: 'Food Sales in all region'   
+    text: 'Food Sales in each region'   
  };
 
  var xAxis =  {
